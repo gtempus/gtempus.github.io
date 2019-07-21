@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+_"How we spend our days is, of course, how we spend our lives." -- Annie Dillard_
